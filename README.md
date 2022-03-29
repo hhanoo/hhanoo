@@ -1,4 +1,4 @@
-### 👋 😄
+## 👋 😄
 
 <h3>👀 About Me</h3>
   <li><a href="https://sw.gachon.ac.kr/cms/">Gachon Univ. Department of Software</a><a> (2018 ~)</a>
