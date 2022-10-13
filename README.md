@@ -1,5 +1,5 @@
-<h3>🧑🏻‍💻 About Me</h3>
-  <li><a href="https://sw.gachon.ac.kr/cms/">Gachon Univ. Department of Software</a><a> (2018 ~)</a>
+<h3>About Me</h3>
+  <li><a href="https://sw.gachon.ac.kr/cms/">Gachon Univ. School of Computing</a><a> (2018 ~)</a>
   <li><a href="https://cafe.naver.com/kusitms">KUSITMS</a> <a>25th (2022.03 - 2022.06)</a>
 
 <h3>📚 Stack</h3>
