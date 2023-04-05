@@ -16,6 +16,4 @@
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 
-
-### github stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hhanoo&show_icons=true)
