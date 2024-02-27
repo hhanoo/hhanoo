@@ -2,13 +2,13 @@
   <a href="https://hhanoo.notion.site/140a286d829d4a9ebf0cae7aa8071155?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
 
 ### 🏫 Education
-<li> <a href="https://sw.gachon.ac.kr/cms/">Gachon Univ. School of Computing</a><a> (2018 - )</a>
+<li> <a href="https://sw.gachon.ac.kr/cms/">Gachon Univ. School of Computing</a><a> (2018 - 2024)</a>
 
 ### 📌 Career
 <li> <a href="https://www.krri.re.kr">Korea Railroad Research Institute</a><a> Development of Proof of Concept in KRRI (2023.07 - 2023.08)</a>
 
 ### 😊 Activity
-  <li><a href="https://www.makeus.in/umc">University MakeUs Challenge</a> @GCU 5th Web 파트 (2023.09 - )</li>
+  <li><a href="https://www.makeus.in/umc">University MakeUs Challenge</a> @GCU 5th Web 파트 (2023.09 - 2024.02)</li>
   <li><a href="https://www.makeus.in/umc">University MakeUs Challenge</a> @GCU 4th Android 파트 (2023.03 - 2022.08)</li>
   <li><a href="https://www.kusitms.com/">KUSITMS</a> <a>25th FE 개발팀 (2022.03 - 2022.06)</a>
     
