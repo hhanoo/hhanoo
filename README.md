@@ -1,11 +1,13 @@
 ### 🗺️ Introduce
   <a href="https://hhanoo.notion.site/140a286d829d4a9ebf0cae7aa8071155?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/%ED%98%84%EC%9A%B0-%EC%A0%95-9b12bb2a3/"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ### 🏫 Education
 <li> <a href="https://sw.gachon.ac.kr/cms/">Gachon Univ. School of Computing</a><a> (2018 - 2024)</a>
 
 ### 📌 Career
 <li> <a href="https://www.krri.re.kr">Korea Railroad Research Institute</a><a> Development of Proof of Concept in KRRI (2023.07 - 2023.08)</a>
+<li> <a href="https://www.krri.re.kr">Korea Electronics Technology Institute</a><a> Researcher in Intelligent Robotics Resarch Center (2024.05 - )</a>
 
 ### 😊 Activity
   <li><a href="https://www.makeus.in/umc">University MakeUs Challenge</a> @GCU 5th Web 파트 (2023.09 - 2024.02)</li>
